@@ -6,6 +6,20 @@ Body {
 }
 
 .nav {
+  color: black;
+}
+.nav ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 30px;
+}
+
+.Langue et contact {
+  display: flex;
 }
 
 img,
